@@ -38,4 +38,4 @@ Siempre estoy abierto a colaboraciones y oportunidades para contribuir a proyect
 
 Puedes contactarme a través de:
 - **Correo Electrónico**: pabloclementi11@gmail.com
-- **LinkedIn**: [Tu Perfil LinkedIn](https://www.linkedin.com/in/pablo-clementi-511b211b3/)
+- **LinkedIn**: [Pabloclementi](https://www.linkedin.com/in/pablo-clementi-511b211b3/)
