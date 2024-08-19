@@ -7,11 +7,13 @@
 Soy originario de Córdoba, Argentina, y tengo una trayectoria diversa que incluye:
 
 - **Data Science**: He completado el bootcamp de Data Science en Henry y actualmente soy Teaching Assistant en el mismo bootcamp.
-- **Experiencia Profesional**: Tengo experiencia en ventas, logística, construcción de granjas solares y estudios contables. También soy Martillero Público y Corredor Inmobiliario.
+- **Experiencia Profesional**: Tengo experiencia en ventas, logística,trabajo en estudios contables,turismo,construcción de granjas solares,etc.
+-  También soy Martillero Público y Corredor Inmobiliario.
 - **Proyectos Destacados**:
-  - **MVP de Recomendación de Películas**: Mi primer proyecto en Henry, que representó un desafío importante y una gran oportunidad de aprendizaje.
-  - **Análisis de Conexión a Internet en Argentina**: Un proyecto de Data Analytics donde creé un dashboard interactivo en Power BI, incluyendo ETL, EDA, KPIs y visualización de datos.
-  - **Proyecto Horizon Data**: Un análisis de datos de Google Maps y Yelp para mejorar la oferta de concesionarios de comida en estadios de la MLS.
+   - **Proyecto Horizon Data**: Un análisis de datos de Google Maps y Yelp para mejorar la oferta de concesionarios de comida en estadios de la MLS.
+   - **MVP de Recomendación de Películas**: Mi primer proyecto en Henry, que representó un desafío importante y una gran oportunidad de aprendizaje.
+   - **Análisis de Conexión a Internet en Argentina**: Un proyecto de Data Analytics donde creé un dashboard interactivo en Power BI, incluyendo ETL, EDA, KPIs y visualización de datos.
+  
 
 ## 🔧 Tecnologías y Herramientas
 
