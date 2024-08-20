@@ -17,8 +17,12 @@ Soy originario de Córdoba, Argentina, y tengo una trayectoria diversa que inclu
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes de Programación**: Python, SQL
-- **Herramientas**: Power BI, Jupyter Notebook, GitHub
+💻 Python || SQL
+📚 Pandas || Numpy || Matplotlib || Seaborn || Scikit-learn || FastAPI || Streamlit
+🛢 SQLServer || MySQL || BigQuery
+🔧 Docker || Apache Airflow || GCP |
+📊 Power BI |
+⚙️ GitHub || Jupyter || Google Colab || Visual Studio Code |
 - **Otros**: Experiencia en metodologías ágiles y trabajo en equipo
 
 ## 🌍 Conexión
